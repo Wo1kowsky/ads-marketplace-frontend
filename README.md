@@ -89,7 +89,7 @@ Displays channels owned by the current user.
 
 ### 4. Profile (tab: `profile`)
 
-User profile screen with logout functionality.
+Allows viewing a list of advertising deals with statuses.
 
 ---
 
